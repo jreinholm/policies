@@ -1,4 +1,4 @@
-# Data Management Policy
+# Data Management Policy --test
 
 Catalyze has procedures to create and maintain retrievable exact copies of electronic protected health information (ePHI) stored in conjunction with Catalyze Add-ons and for PaaS Customers utilizing our Backup Service. This policy, and associated procedures for testing and restoring from backup data, do not apply to PaaS Customers that do not choose Catalyze Backup Service. The policy and procedures will assure that complete, accurate, retrievable, and tested backups are available for all systems used by Catalyze.
   
